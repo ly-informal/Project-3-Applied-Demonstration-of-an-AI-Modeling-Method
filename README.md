@@ -5,5 +5,8 @@ This Repositroy contains the main .ipynb file for Project 3 and the .ipynb file 
 To use these notebooks, open the respective .ipynb files in Google Colab.
 ## Data Source
 The real-world data comes from the UC Irvine Machine Learning Repository's MAGIC Gamma Telescope dataset which contains 19.02 thousand instances with 10 features and is mainly used for categorization models.(https://archive.ics.uci.edu/dataset/159/magic+gamma+telescope).
+For the Colab file, a .csv file was used from a converted .data file and is linked [here]
+## Brief Abstract
+
 ## Liscence
 This repository is currently unliscensed.
