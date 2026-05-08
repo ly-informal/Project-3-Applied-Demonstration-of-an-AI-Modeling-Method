@@ -5,7 +5,6 @@ This Repository contains the main .ipynb file for [Project 3](docs/Project3.ipyn
 To use these notebooks, open the respective .ipynb files in Google Colab or Jupyter.
 ## Data Source
 The real-world data comes from the UC Irvine Machine Learning Repository's Banknote Authentication dataset which contains 1,372 instances with 4 continuous, quantitative features and contains data relevant to the accuracy of banknote evaluation. The data source is located [here.](https://archive.ics.uci.edu/dataset/267/banknote+authentication)
-For the Colab file, a .csv file was used from a converted .data file and is linked [here](docs/magic.csv)
 ## Brief Abstract
 
 ## Liscence
