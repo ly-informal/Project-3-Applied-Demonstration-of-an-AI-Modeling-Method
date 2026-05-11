@@ -5,6 +5,6 @@ This Repository contains the main .ipynb file for [Project 3](Project_3_final.ip
 ## Data Source
 The real-world data comes from the UC Irvine Machine Learning Repository's Banknote Authentication dataset which contains 1,372 instances with 4 continuous, quantitative features and contains data relevant to the accuracy of banknote evaluation. In more detail, real and fake banknotes were digitizied and their numerical values of visual variance, skewness, curtosis, entropy were recorded. The link to the originial source of data can be found [here.](https://archive.ics.uci.edu/dataset/267/banknote+authentication)
 ## Report
-Located in this report is a more detailed analysis of the data set and full scientific/mathematical overview of the project as a whole. This can be downloaded at the zip file located [here](Project_3 (1).zip)
+Located in this report is a more detailed analysis of the data set and full scientific/mathematical overview of the project as a whole. This can be downloaded at the zip file located in the file directory.
 ## Liscence
 This repository is currently unliscensed.
