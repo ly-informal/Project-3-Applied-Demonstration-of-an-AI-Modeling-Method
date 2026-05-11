@@ -4,5 +4,7 @@ This project demonstrates the limitation of using a linear regression method and
 This Repository contains the main .ipynb file for [Project 3](Project_3_final.ipynb) containing both package imports and comments to aid in running the code. To start, download the data file [here](data_banknote_authentication.txt) to then be able to mount the data to the coding software. Next, read the comments and run the blocks of code in the order that they are given. The command run-all can also be used instead of individually running each block.
 ## Data Source
 The real-world data comes from the UC Irvine Machine Learning Repository's Banknote Authentication dataset which contains 1,372 instances with 4 continuous, quantitative features and contains data relevant to the accuracy of banknote evaluation. In more detail, real and fake banknotes were digitizied and their numerical values of visual variance, skewness, curtosis, entropy were recorded. The link to the originial source of data can be found [here.](https://archive.ics.uci.edu/dataset/267/banknote+authentication)
+## Report
+Located in this report is a more detailed analysis of the data set and full scientific/mathematical overview of the project as a whole.
 ## Liscence
 This repository is currently unliscensed.
